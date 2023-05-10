@@ -1,8 +1,5 @@
 const findTheOldest = function(array) {
-
-    ageArray = array.map((person) => {...});
-
-    return array.map((book) => book.title);
+    // will finish one day!!!
 };
 
 // Do not edit below this line
